@@ -1,0 +1,8 @@
+What’s the result of bitwise-AND between 0b110 and 0b011?
+010
+
+
+0b01101101 - convert to hexadecimal
+6D
+
+The CALL instruction doesn’t allow you to pass any arguments. What are some ways to effectively get arguments to a subroutine?
